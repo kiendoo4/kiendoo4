@@ -26,31 +26,26 @@ Here are some ideas to get you started:
 
 - C#: Software Development 
 
-## Contact me
 
 <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
       <summary><h2 style="display: inline-block">🤝How to reach me</h2></summary>
+      You could contact to me via Gmail, Facebook or LinkedIn:
     </ul>
   <!--icons and links-->
   <p align="left">
-<a href="https://linkedin.com/in/linhnguyenkhanh">
+<a href="https://www.linkedin.com/in/kiendoo4/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://neuropurrfectai.substack.com">
-<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /></a>
-
-<a href="https://scholar.google.com/citations?user=cOQ7XW4AAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-
-<a href="mailto:linh@neuropurrfectai.co">
+<a href="mailto:kdoo4.work@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
 </a>
 
-<a href="https://www.threads.net/@linkid91">
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />  
+<a href="https://www.facebook.com/kiendoo4/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
 </a>
   </p>
   </div>
