@@ -1,9 +1,14 @@
-## Hello there, I am Kiên :) 👋
+## Hello world!! 👋
 
-* Passionate about unlocking the power of language, I am a dedicated NLP enthusiast with a strong foundation in computer science. Driven by a commitment to continuous learning and innovation, I am eager to contribute my skills to developing cutting-edge NLP applications.
+Hi there, my full name is Nguyen Trung Kien but you can call me Doo :>
 
-* Currently completing my third year at the University of Information Technology (UIT), I am actively seeking opportunities as an **AI Engineer** or **Research Assistant** to apply my academic knowledge and gain practical experience in the field.
+* 🌱 Interests: Passionate about unlocking the power of language, I am a dedicated NLP enthusiast with a strong foundation in computer science. Driven by a commitment to continuous learning and innovation, I am eager to contribute my skills to developing cutting-edge NLP applications.
 
+* 🔭 Carrer objective: Currently completing my third year at the University of Information Technology (UIT), I am actively seeking opportunities as an **AI Engineer** or **Research Assistant** to apply my academic knowledge and gain practical experience in the field.
+
+See my [**CV**][1] for more info.
+
+[1] https://drive.google.com/file/d/1Vw794Cicr_dBjujVZADw2CpCLpcJzgmf/view?usp=sharing "CV"
 <!--
 **kiendoo4/kiendoo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Proficient Languages:</h3>
-<img src="major_langs.png"></img>
+## Proficient Languages:
 
 * Python: Natural Language Processing, Machine Learning, Data Mining, ...
 
