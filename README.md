@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, I am Kiên :) 👋
+
+Passionate about unlocking the power of language, I am a dedicated NLP enthusiast with a strong foundation in computer science. Driven by a commitment to continuous learning and innovation, I am eager to contribute my skills to developing cutting-edge NLP applications. Currently completing my third year at the University of Information Technology (UIT), I am actively seeking opportunities as an AI Engineer or Research Assistant to apply my academic knowledge and gain practical experience in the field.
 
 <!--
 **kiendoo4/kiendoo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
