@@ -1,8 +1,8 @@
 ## Hello world!! 👋
 
-Hi there, my full name is Nguyen Trung Kien but you can call me Doo :>
+Hi there, my full name is Nguyen Trung Kien. You can call me Doo :>
 
-* 🌱 Interests: Passionate about unlocking the power of language, I am a dedicated NLP enthusiast with a strong foundation in computer science. Driven by a commitment to continuous learning and innovation, I am eager to contribute my skills to developing cutting-edge NLP applications.
+* 🌱 Interest: Passionate about unlocking the power of language, I am a dedicated NLP enthusiast with a strong foundation in computer science. Driven by a commitment to continuous learning and innovation, I am eager to contribute my skills to developing cutting-edge NLP applications.
 
 * 🔭 Carrer objective: Currently completing my third year at the University of Information Technology (UIT), I am actively seeking opportunities as an **AI Engineer** or **Research Assistant** to apply my academic knowledge and gain practical experience in the field.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Proficient Languages:
 
-* Python: Natural Language Processing, Machine Learning, Data Mining, ...
+* Python: Natural Language Processing, Information Retrieval, Machine Learning,...
 
 * C/C++: Competitive Programming 
 
