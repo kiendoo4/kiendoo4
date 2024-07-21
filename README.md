@@ -6,9 +6,7 @@ Hi there, my full name is Nguyen Trung Kien but you can call me Doo :>
 
 * 🔭 Carrer objective: Currently completing my third year at the University of Information Technology (UIT), I am actively seeking opportunities as an **AI Engineer** or **Research Assistant** to apply my academic knowledge and gain practical experience in the field.
 
-See my [**CV**][1] for more info.
-
-[1] https://drive.google.com/file/d/1Vw794Cicr_dBjujVZADw2CpCLpcJzgmf/view?usp=sharing "CV"
+See my [**CV**](https://drive.google.com/file/d/1Vw794Cicr_dBjujVZADw2CpCLpcJzgmf/view?usp=sharing) for more info.
 <!--
 **kiendoo4/kiendoo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
