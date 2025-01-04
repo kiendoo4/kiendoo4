@@ -22,16 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Proficient Languages:
-
-* Python: Natural Language Processing, Information Retrieval, Machine Learning,...
-
-* C/C++: Competitive Programming 
-
-* C#: Software Development
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiendoo4&show_icons=true&locale=en&layout=compact" alt="kiendoo4" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiendoo4&show_icons=true&locale=en" alt="kiendoo4" /></p>
 
 <!-- Connect with me -->
